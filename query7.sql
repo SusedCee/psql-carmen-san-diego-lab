@@ -1,5 +1,3 @@
-SELECT * FROM city WHERE population = 91000;
+SELECT * FROM city WHERE population = 91084;
 
-SELECT * FROM country WHERE code character= "SAU";
-
--- SAU is Saudi Arabia which is warm, Russia is not
+-- Santa Monica, CA
